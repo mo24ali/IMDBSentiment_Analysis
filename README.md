@@ -12,7 +12,7 @@ Ce projet est une application d'analyse des sentiments sur les critiques de film
 ## Prérequis
 Avant de pouvoir exécuter ce projet, vous devez avoir les éléments suivants installés :
 
-- Python 3.x
+- Python 3.12
 - Spyder IDE
 - Les bibliothèques Python suivantes :
 
